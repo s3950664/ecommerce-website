@@ -1,0 +1,48 @@
+[
+    {
+        "products": [
+            {
+                "product_name": "JUST A PRODUCT 2",
+                "vendor": "Vendor1234",
+                "product_id": "1",
+                "product_price": "6789",
+                "product_description": "JUST A PRODUCT 2"
+            },
+            {
+                "product_name": "JUST A PRODUCT",
+                "vendor": "Vendor1234",
+                "product_id": "0",
+                "product_price": "12345",
+                "product_description": "JUST A PRODUCT"
+            }
+        ],
+        "order_id": 0,
+        "total_price": 19134,
+        "customer_address": "Customer Street 123",
+        "hub_name": "UPS Facility",
+        "status": "delivered"
+    },
+    {
+        "products": {
+            "0": {
+                "product_name": "JUST A PRODUCT",
+                "vendor": "Vendor1234",
+                "product_id": "0",
+                "product_price": "12345",
+                "product_description": "JUST A PRODUCT"
+            },
+            "2": {
+                "product_name": "PRODUCT TEST 1",
+                "vendor": "Vendor12345",
+                "product_id": "0",
+                "product_price": "12345",
+                "product_description": "PRODUCT TEST 1"
+            }
+        },
+        "order_id": 1,
+        "total_price": 24690,
+        "customer_address": "Customer Street 123",
+        "hub_name": "UPS Facility",
+        "status": "cancelled"
+    }
+]

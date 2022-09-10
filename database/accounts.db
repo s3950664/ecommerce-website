@@ -1,0 +1,27 @@
+[
+    {
+        "username": "Vendor123",
+        "password": "$2y$10$iBd7k7jFYM4by96xmLcWaOIRrBRxZ4KPg46FXwhJXl5fLDiTue4ym",
+        "role": "vendor"
+    },
+    {
+        "username": "Customer123",
+        "password": "$2y$10$so9LHQj0U7LGBzduwcbSfOX6lSrpoHFz9btw1UyjQlqeOqqlaAUJq",
+        "role": "customer"
+    },
+    {
+        "username": "Shipper123",
+        "password": "$2y$10$uVIKGBh9zPVGSYdv514zFeOGeuYXnY7u.yEiq9gYW88qQb\/T2Pjka",
+        "role": "shipper"
+    },
+    {
+        "username": "Vendor1234",
+        "password": "$2y$10$\/4xGX1mP5IjJ5Y9okjl47uZdV2Kybsq75WWc2jB3OgbA0Gio1hhTW",
+        "role": "vendor"
+    },
+    {
+        "username": "Vendor12345",
+        "password": "$2y$10$tq2bDFJr7bd\/t.YvhFy64Osys7sSQBY.PALUSQq4BqNA\/izHLAUgO",
+        "role": "vendor"
+    }
+]

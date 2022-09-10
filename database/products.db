@@ -1,0 +1,34 @@
+[
+    {
+        "username": "Vendor1234",
+        "product_id": 0,
+        "product_name": "JUST A PRODUCT",
+        "product_price": 12345,
+        "product_description": "JUST A PRODUCT",
+        "ext": "jpg"
+    },
+    {
+        "username": "Vendor1234",
+        "product_id": 1,
+        "product_name": "JUST A PRODUCT 2",
+        "product_price": 6789,
+        "product_description": "JUST A PRODUCT 2",
+        "ext": "jpg"
+    },
+    {
+        "username": "Vendor12345",
+        "product_id": 0,
+        "product_name": "PRODUCT TEST 1",
+        "product_price": 12345,
+        "product_description": "PRODUCT TEST 1",
+        "ext": "jpg"
+    },
+    {
+        "username": "Vendor12345",
+        "product_id": 1,
+        "product_name": "PRODUCT TEST 2",
+        "product_price": 123,
+        "product_description": "PRODUCT TEST 2",
+        "ext": "jpg"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "distribution_hub": "DHL Supply Chain North America (Exel)",
+        "hub_address": "Lmao 1234"
+    },
+    {
+        "distribution_hub": "UPS Facility",
+        "hub_address": "Joke 5678"
+    },
+    {
+        "distribution_hub": "DSV Warehouse",
+        "hub_address": "XXX 1234"
+    }
+]
