@@ -8,8 +8,8 @@
 </head>
 
 <div class="footer">
-    <a href="../about.php">About</a>
-    <a href="../privacy.php">Privacy</a>
+    <a href="about.php">About</a>
+    <a href="privacy.php">Privacy</a>
     <a href="#">Copyright</a>
     <a href="#">Help</a>
 </div>
