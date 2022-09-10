@@ -11,7 +11,7 @@ There are two ways to start website:
 - Open CMD and write "php -S localhost:1111" on the directory that contains index.php (use can change the port 1111 to whatever you want)
 - Open browser, type on URL bar: "localhost:1111/index.php"
 
-2. Directly on domain: https://s3950664.github.io/ecommerce-website/www/index.php
+2. Directly on domain: https://ec0mmerce-project.herokuapp.com/docs/index.php (very unstable because deployers don't support PHP and database directory is out of root directory)
 
 Accounts to use:
 
